@@ -2,7 +2,7 @@
 
 I have created a dashboard to visualize Phonepe pulse Github repository data(https://github.com/PhonePe/pulse) using Streamlit and Plotly in Python
 
-Link for web app is : 
+Link for web app is : https://github.com/Swethamuthukumar/PhonePe-Pulse-Data-2018-2022-Analysis.git
 
 THE MAIN COMPONENTS OF DASHBOARD ARE
 
